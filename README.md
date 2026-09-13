@@ -281,19 +281,9 @@ report_power > power_analysis.txt
 **Power:** 36.48nW (at slow corner)
 **Timing:** 0.66ns (shift), 2.42ns (multiply)
 
----
 
-## 🏆 Team Members
 
-| Name | Roll No | Role |
-|------|---------|------|
-| Akshaya Goudar | 02FE23BEC029 | ALU Core Design |
-| Nandini Mohangekar | 02FE23BEC048 | Barrel Shifter, Integration |
-| Aditya Dhaded | 02FE23BEC051 | Booth Multiplier, Verification |
-| Deepak Kajagar | 02FE23BEC066 | Synthesis, Analysis |
 
-**Guide:** Prof. Ashwini Desai
-**Co-Guide:** Prof. Tejaswini Kutre
 
 **Department:** Electronics and Communication Engineering
 **Institution:** KLE Technological University, Belagavi
@@ -316,19 +306,7 @@ report_power > power_analysis.txt
 
 ---
 
-## 📞 Contact
 
-For questions or clarifications:
-- Email: ashwinidesai@kletechuni.ac.in
-- Department: ECE, KLE Technological University
-- Review Date: May 28, 2026
-
----
-
-## 📄 License
-
-This project is part of academic minor project at KLE Technological University.
-Educational use permitted with proper attribution.
 
 ---
 
