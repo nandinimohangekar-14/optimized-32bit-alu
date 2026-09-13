@@ -1,0 +1,36 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cadence / EDA generated files
+*.log
+*.history
+*.cdslck
+*.lck
+waves/
+results/
+work/
+
+# Temporary files
+*.tmp
+*.bak
+~*
